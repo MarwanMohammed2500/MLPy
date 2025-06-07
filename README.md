@@ -18,3 +18,6 @@ Honestly, I'm not sure. This is a work in progress and something I do when I fin
 I'm an artificial intelligence student specialized in intelligent systems engineering, and I LOVE what I do, and I hope I'm able to break a creer in that field soon, I also love MLOps and Robotics, and ultimate I want to work in AIoT!
 
 Anyways, welcome to MLPy! Feel free to hit me up for a chat via LinkedIn, Email, or whatever other means you prefer. and I hope this helps you out :D
+
+**P.S.**<br>
+'Im-new-to-this' is just me from a different account, todaloos!
